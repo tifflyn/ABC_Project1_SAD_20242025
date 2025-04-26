@@ -20,6 +20,6 @@ Issues faced by supervisors and postgraduate students are solved by integrating 
 
 Phase 1 - Project Proposal and planning
 
-Kanban board link :
+Kanban board link :[Our progress](https://github.com/users/tifflyn/projects/4)
 
-Report link :
+Report link :[Report softcopy](https://docs.google.com/document/d/1fQ2IhPnmOUc0rjFQlN3cwYgKCE9eOdO182PX6TPMOQg/edit?usp=sharing)
